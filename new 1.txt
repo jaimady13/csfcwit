@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Claims Page </title>
+</head>
+
+img src='https://myteamcare.org/img/reg-logo-200x50.png'/>
+
+</html>
